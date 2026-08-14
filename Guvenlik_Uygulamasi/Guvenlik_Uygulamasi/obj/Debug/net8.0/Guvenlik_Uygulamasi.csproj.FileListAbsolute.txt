@@ -1,0 +1,15 @@
+C:\Users\muham\OneDrive\Masaüstü\C# Projeleri\Guvenlik_Uygulamasi\Guvenlik_Uygulamasi\bin\Debug\net8.0\Guvenlik_Uygulamasi.exe
+C:\Users\muham\OneDrive\Masaüstü\C# Projeleri\Guvenlik_Uygulamasi\Guvenlik_Uygulamasi\bin\Debug\net8.0\Guvenlik_Uygulamasi.deps.json
+C:\Users\muham\OneDrive\Masaüstü\C# Projeleri\Guvenlik_Uygulamasi\Guvenlik_Uygulamasi\bin\Debug\net8.0\Guvenlik_Uygulamasi.runtimeconfig.json
+C:\Users\muham\OneDrive\Masaüstü\C# Projeleri\Guvenlik_Uygulamasi\Guvenlik_Uygulamasi\bin\Debug\net8.0\Guvenlik_Uygulamasi.dll
+C:\Users\muham\OneDrive\Masaüstü\C# Projeleri\Guvenlik_Uygulamasi\Guvenlik_Uygulamasi\bin\Debug\net8.0\Guvenlik_Uygulamasi.pdb
+C:\Users\muham\OneDrive\Masaüstü\C# Projeleri\Guvenlik_Uygulamasi\Guvenlik_Uygulamasi\obj\Debug\net8.0\Guvenlik_Uygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\OneDrive\Masaüstü\C# Projeleri\Guvenlik_Uygulamasi\Guvenlik_Uygulamasi\obj\Debug\net8.0\Guvenlik_Uygulamasi.AssemblyInfoInputs.cache
+C:\Users\muham\OneDrive\Masaüstü\C# Projeleri\Guvenlik_Uygulamasi\Guvenlik_Uygulamasi\obj\Debug\net8.0\Guvenlik_Uygulamasi.AssemblyInfo.cs
+C:\Users\muham\OneDrive\Masaüstü\C# Projeleri\Guvenlik_Uygulamasi\Guvenlik_Uygulamasi\obj\Debug\net8.0\Guvenlik_Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Masaüstü\C# Projeleri\Guvenlik_Uygulamasi\Guvenlik_Uygulamasi\obj\Debug\net8.0\Guvenlik_Uygulamasi.sourcelink.json
+C:\Users\muham\OneDrive\Masaüstü\C# Projeleri\Guvenlik_Uygulamasi\Guvenlik_Uygulamasi\obj\Debug\net8.0\Guvenlik_Uygulamasi.dll
+C:\Users\muham\OneDrive\Masaüstü\C# Projeleri\Guvenlik_Uygulamasi\Guvenlik_Uygulamasi\obj\Debug\net8.0\refint\Guvenlik_Uygulamasi.dll
+C:\Users\muham\OneDrive\Masaüstü\C# Projeleri\Guvenlik_Uygulamasi\Guvenlik_Uygulamasi\obj\Debug\net8.0\Guvenlik_Uygulamasi.pdb
+C:\Users\muham\OneDrive\Masaüstü\C# Projeleri\Guvenlik_Uygulamasi\Guvenlik_Uygulamasi\obj\Debug\net8.0\Guvenlik_Uygulamasi.genruntimeconfig.cache
+C:\Users\muham\OneDrive\Masaüstü\C# Projeleri\Guvenlik_Uygulamasi\Guvenlik_Uygulamasi\obj\Debug\net8.0\ref\Guvenlik_Uygulamasi.dll

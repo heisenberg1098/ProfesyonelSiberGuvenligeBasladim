@@ -1,0 +1,43 @@
+MEY YATIRIM BANKASI A.Ş.
+BİREYSEL PORTFÖY DEĞERLENDİRME RAPORU
+
+Tarih: 12 Kasım 2026
+Rapor Numarası: PRT-2019/11-485
+Şube: İç Anadolu Bölge Müdürlüğü
+
+1. Müşteri Bilgileri
+Müşteri No: 44589213
+
+Risk Profili: Dinamik (Seviye 5)
+
+Referans Para Birimi: TRY (Türk Lirası)
+
+Değerlendirme Dönemi: 01.07.2019 – 31.10.2019
+
+2. Varlık Dağılımı Özeti
+Belirtilen dönem sonu itibarıyla müşteri portföyünün varlık sınıflarına göre dağılımı aşağıdaki gibidir:
+
+Varlık Sınıfı	Tutar (TRY)	Portföy İçindeki Payı (%)	Dönem İçi Getiri (%)
+Vadeli Mevduat (TRY)	45.000,00	%25	+ %4.2
+Döviz Mevduat (USD)	68.400,00	%38	+ %1.8
+Hisse Senedi (BİST 100)	36.000,00	%20	- %2.1
+Kıymetli Maden (Altın)	30.600,00	%17	+ %5.4
+Toplam Varlık	180.000,00	%100	+ %2.3 (Ortalama)
+3. Piyasa Analizi ve Dönem İçi İşlemler
+Makroekonomik Görünüm: 2019 yılının üçüncü çeyreğinde küresel piyasalardaki belirsizlikler ve ticaret savaşları endişeleri, altın gibi güvenli liman varlıklarına olan talebi artırmıştır.
+
+Portföy Hareketleri: 15 Ağustos 2019 tarihinde risk profilinize uygun olarak portföydeki hisse senedi ağırlığı %5 oranında azaltılmış, elde edilen likidite kıymetli madenler fonuna kaydırılmıştır.
+
+Kur Etkisi: Döviz mevduat hesaplarınızda tutulan ABD Doları, dönem içindeki kur dalgalanmalarına rağmen portföyün genel stabilizasyonuna katkı sağlamıştır.
+
+4. Gelecek Dönem Strateji Önerisi
+Mevcut piyasa koşulları ve 2020 yılı başı enflasyon beklentileri göz önüne alındığında, portföyünüzdeki hisse senedi ağırlığının kademeli olarak defansif sektörlere (gıda, perakende) kaydırılması ve döviz pozisyonunun korunması tavsiye edilmektedir.
+
+5. Gelecek Tahminleri
+BENCE ENES ZENGİN OLACAK
+
+Onaylayan:
+M. Enes Yalçın
+Kıdemli Portföy Yöneticisi
+MEY Yatırım Bankası A.Ş.
+

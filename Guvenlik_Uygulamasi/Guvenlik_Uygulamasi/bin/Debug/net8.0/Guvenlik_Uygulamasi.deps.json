@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Guvenlik_Uygulamasi/1.0.0": {
+        "runtime": {
+          "Guvenlik_Uygulamasi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Guvenlik_Uygulamasi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

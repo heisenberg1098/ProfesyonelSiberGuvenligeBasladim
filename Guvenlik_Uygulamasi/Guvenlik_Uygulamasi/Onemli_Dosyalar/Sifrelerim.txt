@@ -1,0 +1,23 @@
+github
+kullanıcı adı: heisenberg1098
+şifre: githup_sifrem123
+
+stack overflow
+kullanıcı adı: dev_enesa
+şifre: stack12345!
+
+instagram
+kullanıcı adı: enesylc1n
+şifre: Ruhi123
+
+twitter
+kullanıcı adı: yalcines_x
+şifre: Ruhi123
+
+discord
+kullanıcı adı: heisenberg1098
+şifre: discord_pass_321
+
+linkedin
+kullanıcı adı: enesyalcin
+şifre: link_enes_2026
