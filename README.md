@@ -70,18 +70,6 @@ Benim için önemli olan senaryo şu:
 
 Bu nedenle `FileSystemWatcher` ve `LastWrite` olayını kullandım.
 
-## Kullandığım Kısayollar
-
-Projeyi Visual Studio 2022 üzerinde geliştiriyorum.
-
-Kod yazarken ve test ederken birkaç temel kısayolu kullanıyorum:
-
-* `Ctrl + S` → Dosyayı kaydetmek için.
-* `F5` → Projeyi hata ayıklama modunda çalıştırmak için.
-* `Ctrl + F5` → Hata ayıklama olmadan çalıştırmak için.
-* `Ctrl + C` → Çalışan konsol uygulamasını durdurmak için.
-
-Özellikle `F5` ile programı çalıştırıp daha sonra `Rapor_2026.txt` dosyasını değiştirerek sistemi test ediyorum.
 
 ## Şu Anki Durum
 
